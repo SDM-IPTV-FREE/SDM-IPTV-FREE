@@ -13708,3 +13708,6 @@ https://g28.turbosplayer.com/video/e3969ab3-f3e8-4506-8f15-787c1ec58b8b/master.h
 
 
 #EXTM3U billed-msg="Playlist Ini Hanya Untuk Pelanggan Viosnet"
+#EXTINF:-1 tvg-logo="" group-title="Indonesia TV", SCTV               
+https://www.vidio.com/live/204-sctv-tv-stream/embed?autoplay=true&player_only=true&live_chat=false&mute=false&
+
