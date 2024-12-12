@@ -3485,8 +3485,7 @@ http://j.mp/2bFREcc
 
 ############################  DENS TV #############################
 
-#EXTINF: -1 tvg-name="Youtube Ongis Mbois" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="2.0 ❤️🌀DENS TV❤️", PLAYLIST INI GRATISS"
-https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="2.0 ❤️🌀DENS TV❤️",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -14727,4 +14726,4 @@ https://cdn7iv.diebutx.com/ownhls/2020/28cdfc9db9535519cd8fe994f9c70bbb/720p/ind
 
 
 
-#EXTM3U billed-msg="⛔😎 Playlist Ini Hanya Untuk Pelanggan Viosnet ⛔😎"
+#EXTM3U billed-msg="⛔ Playlist Ini Hanya Untuk Pelanggan Viosnet ⛔"
