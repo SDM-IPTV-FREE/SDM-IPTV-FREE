@@ -2878,7 +2878,6 @@ EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-id="" tvg-url="" tvg-logo
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 https://d1abp075u76pbq.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd|Referer=https://www.visionplus.id/
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/soccerch.png" group-title="1.2 ❤️Vios-SPORT❤️" ,SOCCER Cannel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
@@ -3115,7 +3114,7 @@ https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX068KAbXmypJmxN4nk0sLTnc
 #####################################---Sport Indonesia ---#########################################################################
  --- Timnas Indonesia ---
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/soccerch.png" group-title="1.2 ❤️Vios-SPORT❤️" ,SOCCER Cannel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
@@ -3155,9 +3154,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 xui-id="325" tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkU02uyRa7ztrVnDBwEXFGvw00H9ZRmc5YnXXVg_6iJJY.png" group-title="1.3 ❤️Vios-SPORT INDO❤️",SOCCER CHANNEL
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0zEldvjJhp_sm1wO4mUQ3Iw
 
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="1.3 ❤️Vios-SPORT INDO❤️",Sukan RTM
