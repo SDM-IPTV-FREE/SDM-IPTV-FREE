@@ -3092,14 +3092,14 @@ https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
-#EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-id="" tvg-chno="" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 1 (SGP)
+#EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-id="" tvg-chno="" tvg-logo="https://play-lh.googleusercontent.com/HJ1bpvcPc1pBrxB9jSQoqdE0q6ToTTBKcU-1xv7Jh4rthoSgGPHfMjDU9yCFit3pzZv3=w240-h480-rw",SPORT 1 (SGP)
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-id="" tvg-chno="" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 2 (SGP)
+#EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-id="" tvg-chno="" tvg-logo="https://yt3.googleusercontent.com/8o1FZDFMx_9YDDQVse8hpSuwzM0Kwyk4atQ3mYe3p34zaA0OhZANUoyoJVIOA_XRRalnE70vRi4=s900-c-k-c0x00ffffff-no-rj",SPORT 2 (SGP)
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 EXTINF:-1 xui-id="323" tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkc_kGc4Zurs3J6OMCJZu-WQ.png" group-title="1.2 ❤️Vios-SPORT❤️",SPOTV 1
