@@ -10106,9 +10106,7 @@ http://143.244.60.30/TCM/index.m3u8
 //Collected by @mimipipi22 menampilkan playlist >>> MOVIES VOD 2024
 //========================================================================
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/Ha3Bn9zKgKWgiwiTogH2GFACnl.jpg",A Beautiful Imperfection (2024)
-https://ss12.silkanu.cc/data/6/6759d0ee5010d/hls720/6759d0ee5010d720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tYLdQQSG5Gyes21qYRMaHQrwa26.jpg",Hazard (2024)
@@ -10360,16 +10358,6 @@ https://ss12.silkanu.cc/data/7/674eb0fa83a4f/hls720/674eb0fa83a4f720.m3u8|refere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/BTkcOikAvHCC7an9iLRwlxX94E.jpg",Inherit the Witch (2024)
 https://ss07.tubzde.cc/data/6/675095a4e31f8/hls720/675095a4e31f8720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mIz2zVOCRqfUj3QU3X64esg2Up7.jpg",Allen Sunshine (2024)
-https://ss05.silkanu.cc/data/0/675a3af797620/hls480/675a3af797620480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
-https://ss05.silkanu.cc/data/A/6751d8ff11e6d/hls720/6751d8ff11e6d720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ebDlWF68WGIfXyieCgC1uW2wrAL.jpg",12 to Midnight (2024)
-https://ss01.tubzde.cc/data/3/6759776da7e42/hls480/6759776da7e42480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
-https://ss01.tubzde.cc/data/3/6759776da7e42/hls720/6759776da7e42720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hZPkT1hx5aLuBMncLgtePNjh4Hl.jpg",When Love Strikes (2024)
@@ -10725,10 +10713,6 @@ https://ss09.tubzde.cc/data/7/67448ee60b237/hls720/67448ee60b237720.m3u8|referer
 https://ss08.tubzde.cc/data/B/6744219977279/hls720/6744219977279720.m3u8|referer=https://ss08.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qEMkV2Un6wy34y3UtRnzfE7yBOh.jpg",A Dark Story – Una Storia Nera (2024)
-https://ss06.tubzde.cc/data/C/67436a85d3e96/hls720/67436a85d3e96720.m3u8|referer=https://ss08.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8UiYw9JGDZsXODKtBpnAhmoK2UO.jpg",Impulse (2024)
 https://ss11.silkanu.cc/data/2/674595ec695b0/hls720/674595ec695b0720.m3u8|referer=https://ss11.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
 
@@ -10747,10 +10731,6 @@ https://ss12.silkanu.cc/data/4/6742f8cc0358e/hls720/6742f8cc0358e720.m3u8|refere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xrBy9mSw47Lw8j9HeTQNwDvbwMv.jpg",The Wig (2024)
 https://ss08.tubzde.cc/data/1/67424d8f740b4/hls720/67424d8f740b4720.m3u8|referer=https://ss08.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mQC3nIJ9DQ74t9vFzUjqP8eohgX.jpg",An Almost Christmas Story (2024)
-https://ss07.tubzde.cc/data/F/6742383c028e5/hls720/6742383c028e5720.m3u8|referer=https://ss07.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m2agDtH1nBufjkeyx4bOaeQDqE.jpg",Summer Rain (2024)
@@ -11008,10 +10988,6 @@ https://ss03.silkanu.cc/data/1/673c86c58dd72/hls720/673c86c58dd72720.m3u8|refere
 https://ss10.silkanu.cc/data/4/673c802fdb658/hls720/673c802fdb658720.m3u8|referer=https://ss10.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wKgRzK743xFWGFarlNt3r6FJCeE.jpg",1995 (2024)
-https://ss09.tubzde.cc/data/4/673c799d017cc/hls720/673c799d017cc720.m3u8|referer=https://ss09.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xyKdcbzqX8pG17S4cLKURHlNlvN.jpg",The Last Redemption (2024)
 https://stream.hownetwork.xyz/xxx/the-last-redemption-2024-webdl_X_5e29c2cb/26/480.m3u8
 https://ss05.silkanu.cc/data/2/673cf4dc2a64f/hls480/673cf4dc2a64f480.m3u8|referer=https://ss05.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
@@ -11178,14 +11154,6 @@ https://ss02.tubzde.cc/data/C/6736e079f3635/hls720/6736e079f3635720.m3u8|referer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8xjOFXj0CHy5Mp6Wfsr2iIXTtZ5.jpg",Bonds Will Be Broken (2024)
 https://maxbit.link/play/driveid-191339-webrip-1080-terbit21-com-bonds-will-be-broken-2024.mp4|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5snjmnyioiyX82ZUP8PH9LiulTJ.jpg",Am I Racist? (2024)
-https://maxbit.link/play/driveid-191270-webrip-1080-terbit21-com-am-i-racist-2024.mp4|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fGINjf8jdJ5t4kqESNE3OMaVBSc.jpg",1 Million Followers (2024)
-https://maxbit.link/play/driveid-191268-webrip-1080-terbit21-com-1-million-followers-2024.mp4|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mgb8Qkb7SXf9bCYzJpo5g1O7fkV.jpg",Paternal (2024)
@@ -11382,10 +11350,6 @@ https://ss11.silkanu.cc/data/2/6730ce23aba2b/hls720/6730ce23aba2b720.m3u8|refere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iOVe3xoJDIdMMYvCy18a4TlDIOK.jpg",Between the Temples (2024)
 https://ss05.silkanu.cc/data/8/6730cd71051f4/hls720/6730cd71051f4720.m3u8|referer=https://ss05.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8sAFePLKKQAx54nWazViW96vxr5.jpg",Al Fayed - Predator at Harrods (2024)
-https://ss05.silkanu.cc/data/0/672fe45c76d46/hls720/672fe45c76d46720.m3u8|referer=https://ss05.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bHsXjvIehwPpEwUhxlMFdvWyZVf.jpg",The Swarm (2024)
@@ -11647,10 +11611,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/05/The.Count.o
 https://ss03.silkanu.cc/data/7/672ab296410bf/hls480/672ab296410bf480.m3u8|referer=https://ss03.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lZZKTEvo92u1J5pm7QoEA5yN3du.jpg",A Different Man (2024)
-https://ss12.silkanu.cc/data/6/6729cd5951f5a/hls720/6729cd5951f5a720.m3u8|referer=https://ss12.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j6bpNu94Nah75ED2WQVxt2iOX.jpg",A Mistake (2024)
 https://stream.hownetwork.xyz/xxx/a-mistake-2024-webdl_X_8f05f8bf/26/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/05/A.Mistake.2024.mp4/tracks-v1a1/mono.m3u8
@@ -11696,10 +11656,6 @@ https://ss03.silkanu.cc/data/9/672949ed96ed5/hls720/672949ed96ed5720.m3u8|refere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://image.tmdb.org/t/p/w185/uV0tZkugXfp3P91XX8yxZyodaHO.jpg",Greatest Cartoons of the Golden Era Vol. 2 (2024)
 https://ss01.tubzde.cc/data/C/6729494b2e856/hls720/6729494b2e856720.m3u8|referer=https://ss01.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://image.tmdb.org/t/p/w185/y8tbZ6MP4kAyGFkgFxjwcj8VHHI.jpg",50 km/h (2024)
-https://ss08.tubzde.cc/data/B/67294850e4249/hls720/67294850e4249720.m3u8|referer=https://ss08.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://image.tmdb.org/t/p/w185/sBhiNYojxToIX0j4l9jahR62Zs8.jpg",Restoring Grace (2024)
@@ -12513,10 +12469,6 @@ https://stream.hownetwork.xyz/xxx/major-grom-the-game-2024-webdl_X_62e1b07c/26/4
 https://stream.hownetwork.xyz/xxx/the-front-room-2024-webdl_X_28ddb993/26/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/09/film-13th-summer-2024-lk21-d21.jpg.webp",13th Summer 2024
-https://stream.hownetwork.xyz/xxx/13th-summer-2024-webdl_X_5f06fb4d/26/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/09/film-kill-em-all-2-2024-lk21-d21.jpg.webp",Kill Em All 2 2024
 https://stream.hownetwork.xyz/xxx/kill-em-all-2-2024-webdl_X_2cf8b4b9/26/480.m3u8
 
@@ -12863,10 +12815,6 @@ https://stream.hownetwork.xyz/xxx/handsome-guys-2024-webdl_X_459cd42e/25/480.m3u
 https://stream.hownetwork.xyz/xxx/chime-2024-bluray_X_8bb422bf/25/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/08/film-adam-sandler-love-you-2024-lk21-d21.jpg.webp",Adam Sandler - Love You 2024
-https://stream.hownetwork.xyz/xxx/adam-sandler-love-you-2024-webdl_X_acefdac2/25/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/08/film-harold-and-the-purple-crayon-2024-lk21-d21.jpg.webp",Harold and the Purple Crayon 2024
 https://stream.hownetwork.xyz/xxx/harold-and-the-purple-crayon-2024-webdl_X_3872c972/25/480.m3u8
 
@@ -13202,10 +13150,6 @@ https://stream.hownetwork.xyz/xxx/the-exorcism-2024-bluray_X_8adc804a/25/480.m3u
 https://stream.hownetwork.xyz/xxx/the-exorcism-2024-webdl_X_07c8bf42/22/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-amp-house-massacre-2024-lk21-d21.jpg",Amp House Massacre 2024 HDCAM
-https://stream.hownetwork.xyz/xxx/amp-house-massacre-2024-hdcam_X_ec359f0a/22/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-you-cant-run-forever-2024-lk21-d21.jpg",You Can't Run Forever 2024
 https://stream.hownetwork.xyz/xxx/you-cant-run-forever-2024-bluray_X_63c28b6d/22/480.m3u8
 
@@ -13236,10 +13180,6 @@ https://stream.hownetwork.xyz/xxx/the-roundup-punishment-2024-bluray_X_c6c7b770/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/07/film-space-cadet-2024-lk21-d21.jpg",Space Cadet 2024
 https://stream.hownetwork.xyz/xxx/space-cadet-2024-webdl_X_25a8e96f/22/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/07/film-adam-the-first-2024-lk21-d21.jpg",Adam the First 2024
-https://stream.hownetwork.xyz/xxx/adam-the-first-2024-webdl_X_7faf5f1e/22/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/07/film-winnie-the-pooh-blood-and-honey-2-2024-lk21-d21.jpg",Winnie-the-Pooh - Blood and Honey 2 2024
@@ -13587,9 +13527,6 @@ https://stream.hownetwork.xyz/xxx/arthur-the-king-2024-webdl_X_e63a21ba/21/480.m
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/04/film-breathe-2024-lk21-d21.jpg.webp",Breathe 2024
 https://stream.hownetwork.xyz/xxx/breathe-2024-bluray_X_f4eff792/20/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/02/film-air-force-one-down-2024-lk21-d21.jpg.webp",Air Force One Down 2024
-https://stream.hownetwork.xyz/xxx/air-force-one-down-2024-webdl_X_ea0f1fc1/20/480.m3u8
 
 
 //========================================================================
@@ -14717,6 +14654,12 @@ https://hls2.dewanonton.online/vultr/yPALSHkaNQXht/hls-stream.m3u8
 #EXTINF:-1 type="movie" group-title="Fast & Furious" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2015/12/film-the-fast-and-the-furious-2001.jpg.webp",The Fast and the Furious (2001)
 #https://stream.hownetwork.xyz/xxx/fast-furious-2001-bluray/6/480.m3u8
 https://cdn7iv.diebutx.com/ownhls/2020/28cdfc9db9535519cd8fe994f9c70bbb/720p/index.m3u8
+
+
+
+
+
+
 
 
 
