@@ -10091,6 +10091,7 @@ http://143.244.60.30/TCM/index.m3u8
 
 
 
+
 #EXTM3U url=""
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
@@ -10104,9 +10105,15 @@ http://143.244.60.30/TCM/index.m3u8
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> MOVIES VOD 2024
-//========================================================================
+//======================================================================
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/08/film-angels-fallen-warriors-of-peace-2024-lk21-d21.jpg.webp",Angels Fallen - Warriors of Peace 2024
+https://stream.hownetwork.xyz/xxx/angels-fallen-warriors-of-peace-2024-webdl_X_c5503ec5/22/480.m3u8
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/04/film-ordinary-angels-2024-lk21-d21.jpg.webp",Ordinary Angels 2024
+https://stream.hownetwork.xyz/xxx/ordinary-angels-2024-bluray_X_154e52f1/25/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tYLdQQSG5Gyes21qYRMaHQrwa26.jpg",Hazard (2024)
@@ -10127,10 +10134,6 @@ https://ss04.silkanu.cc/data/3/67598506f0efd/hls720/67598506f0efd720.m3u8|refere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3oQRG0bwPUqE4N4n8z2kAzr7e40.jpg",Maria (2024)
 https://ss03.silkanu.cc/data/6/6759650f16b9b/hls720/6759650f16b9b720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wQV4VH1JFP5phu8E4ZsZGPEcyqp.jpg",Bark (2024)
-https://ss04.silkanu.cc/data/7/675958d0723c1/hls720/675958d0723c1720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mWngpdchk5kjjavbQVkm63Vnhoe.jpg",The Summer We Died (2024)
@@ -11015,10 +11018,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/12/The.Critic.
 https://ss06.tubzde.cc/data/1/6736e0f7023b3/hls720/6736e0f7023b3720.m3u8|referer=https://ss06.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",Angels Fallen: Warriors of Peace (2024)
-https://ss04.silkanu.cc/data/F/6730489d35833/hls720/6730489d35833720.m3u8|referer=https://ss04.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eA94hAGntLm7Lfol5FQJNxd53Hw.jpg",Players (2024)
 https://ss01.tubzde.cc/data/9/6736e20780ff4/hls720/6736e20780ff4720.m3u8|referer=https://ss01.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
 
@@ -11314,10 +11313,6 @@ https://ss10.silkanu.cc/data/8/67336e71089e2/hls480/67336e71089e2480.m3u8|refere
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/08/Blackwater.Lane.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/62XgBKjAcKP0xarT4zJeZZPmfGT.jpg",A House On Fire (2024)
-https://ss06.tubzde.cc/data/C/6732c1e57df86/hls720/6732c1e57df86720.m3u8|referer=https://ss06.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aE5fcthFpurN5ObSukitSKLAHl5.jpg",Food and Country (2024)
 https://ss03.silkanu.cc/data/3/6732c0ff62514/hls720/6732c0ff62514720.m3u8|referer=https://ss03.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
 
@@ -11566,11 +11561,7 @@ https://ss05.silkanu.cc/data/A/672b81be1a786/hls720/672b81be1a786720.m3u8|refere
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tPRH0Rm00esNefnI1ZxQqTTIpzJ.jpg",Meet Me Next Christmas (2024)
 https://stream.hownetwork.xyz/xxx/meet-me-next-christmas-2024-webdl_X_75903552/26/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/05/Meet.Me.Next.Christmas.2024.mp4/tracks-v1a1/mono.m3u8
-https://ss09.tubzde.cc/data/9/672b5a2d37bbe/hls720/672b5a2d37bbe720.m3u8|referer=https://ss09.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zUv8lBLSrr1j2Nfz8NBDeWbuyHn.jpg",Assassin’s Guild (2024)
-https://ss01.tubzde.cc/data/3/672b53766d484/hls720/672b53766d484720.m3u8|referer=https://ss01.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+https://ss09.tubzde.cc/data/9/672b5a2d37bbe/hls720/672b5a2d37bbe720.m3u8|referer=https://ss09.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dB6ojZkXfk6JFYaqZTTDUK8wj9O.jpg",Elyas (2024)
@@ -12522,10 +12513,6 @@ https://ss06.tubzde.cc/data/E/675998cfb0ea3/hls720/675998cfb0ea3720.m3u8|referer
 https://stream.hownetwork.xyz/xxx/strange-tales-of-mountain-folk-2024-webdl_X_bcfe58cd/20/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/09/film-a-love-story-of-assassin-2024-lk21-d21.jpg.webp",A Love Story of Assassin 2024
-https://stream.hownetwork.xyz/xxx/a-love-story-of-assassin-2024-webdl_X_34bc5e62/20/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/09/film-the-house-on-laura-anne-dr-2024-lk21-d21.jpg.webp",The House on Laura Anne Dr. 2024
 https://stream.hownetwork.xyz/xxx/the-house-on-laura-anne-dr-2024-webdl_X_2ede2659/20/480.m3u8
 
@@ -12774,10 +12761,6 @@ https://stream.hownetwork.xyz/xxx/buddy-2024-webdl_X_6d9c78d2/25/480.m3u8
 https://stream.hownetwork.xyz/xxx/viva-la-vida-2024-webdl_X_80da7a2f/25/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/04/film-ordinary-angels-2024-lk21-d21.jpg.webp",Ordinary Angels 2024
-https://stream.hownetwork.xyz/xxx/ordinary-angels-2024-bluray_X_154e52f1/25/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/08/film-love-you-to-debt-2024-lk21-d21.jpg.webp",Love You to Debt 2024
 https://stream.hownetwork.xyz/xxx/love-you-to-debt-2024-webdl_X_95abb81f/25/480.m3u8
 
@@ -12905,10 +12888,6 @@ https://stream.hownetwork.xyz/xxx/peter-five-eight-2024-webdl_X_554eb43c/22/480.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/08/film-lore-2024-lk21-d21.jpg.webp",Lore 2024
 https://stream.hownetwork.xyz/xxx/lore-2024-webdl_X_ecde6b4a/22/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/08/film-angels-fallen-warriors-of-peace-2024-lk21-d21.jpg.webp",Angels Fallen - Warriors of Peace 2024
-https://stream.hownetwork.xyz/xxx/angels-fallen-warriors-of-peace-2024-webdl_X_c5503ec5/22/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/08/film-consumed-2024-lk21-d21.jpg.webp",Consumed 2024
@@ -13045,10 +13024,6 @@ https://stream.hownetwork.xyz/xxx/chief-of-station-2024-bluray_X_35361d38/22/480
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-cabrini-2024-lk21-d21.jpg.webp",Cabrini 2024
 https://stream.hownetwork.xyz/xxx/cabrini-2024-webdl_X_f6a540eb/22/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/07/film-a-quiet-place-day-one-2024-lk21-d21.jpg.webp",A Quiet Place: Day One 2024
-https://stream.hownetwork.xyz/xxx/a-quiet-place-day-one-2024-webdl_X_dd6849f5/22/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/07/film-brightwood-2022-lk21-d21.jpg.webp",Brightwood 2024
@@ -13382,10 +13357,6 @@ https://stream.hownetwork.xyz/xxx/gaga-chromatica-ball-2024-webdl_X_578e55d0.480
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/05/film-the-beach-boys-2024-lk21-d21.jpg",The Beach Boys 2024
 https://stream.hownetwork.xyz/xxx/the-beach-boys-2024-webdl_X_aa458065/22/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-atlas-2024-lk21-d21.jpg",Atlas 2024
-https://stream.hownetwork.xyz/xxx/atlas-2024-webdl_X_ce47c5b9/22/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-thelma-the-unicorn-2024-lk21-d21.jpg",Thelma the Unicorn 2024
@@ -14654,6 +14625,9 @@ https://hls2.dewanonton.online/vultr/yPALSHkaNQXht/hls-stream.m3u8
 #EXTINF:-1 type="movie" group-title="Fast & Furious" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2015/12/film-the-fast-and-the-furious-2001.jpg.webp",The Fast and the Furious (2001)
 #https://stream.hownetwork.xyz/xxx/fast-furious-2001-bluray/6/480.m3u8
 https://cdn7iv.diebutx.com/ownhls/2020/28cdfc9db9535519cd8fe994f9c70bbb/720p/index.m3u8
+
+
+
 
 
 
