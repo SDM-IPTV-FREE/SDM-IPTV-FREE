@@ -10108,10 +10108,6 @@ http://143.244.60.30/TCM/index.m3u8
 //======================================================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",Angels Fallen: Warriors of Peace (2024)
-https://ss04.silkanu.cc/data/F/6730489d35833/hls720/6730489d35833720.m3u8|referer=https://ss04.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/04/film-ordinary-angels-2024-lk21-d21.jpg.webp",Ordinary Angels 2024
 https://stream.hownetwork.xyz/xxx/ordinary-angels-2024-bluray_X_154e52f1/25/480.m3u8
 
