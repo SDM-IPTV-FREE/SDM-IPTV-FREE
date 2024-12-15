@@ -3248,39 +3248,39 @@ https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 ################    PENGETAHUAN    ##################
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dcch.png" group-title="1.6 ❤️Vios-PENGETAHUAN❤️",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dcch.png" group-title="1.6 ❤️Vios-PENGETAHUAN❤️",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/animalplanet.png" group-title="1.6 ❤️Vios-PENGETAHUAN❤️",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/animalplanet.png" group-title="1.6 ❤️Vios-PENGETAHUAN❤️",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
-#EXTINF:-1 group-title="1.6 ❤️Vios-PENGETAHUAN❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bbceart.png",BBC Earth
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bbceart.png" group-title="1.6 ❤️Vios-PENGETAHUAN❤️", BBC Earth
 #EXTVLCOPT:http-referrer=https://keralamaxtv.com/sliv/play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://keralamaxtv.com/sliv/stream.php?id=852&=.m3u8
 
-EXTINF:-1 group-title="1.6 ❤️Vios-PENGETAHUAN❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/history.png",History Asia
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/history.png" group-title="1.6 ❤️Vios-PENGETAHUAN❤️", History Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/outdoorch.png" group-title="1.6 ❤️Vios-PENGETAHUAN❤️",Outdoor Channel
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/outdoorch.png" group-title="1.6 ❤️Vios-PENGETAHUAN❤️",Outdoor Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 https://d1abp075u76pbq.cloudfront.net/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/lovenature.png" group-title="1.6 ❤️Vios-PENGETAHUAN❤️",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/lovenature.png" group-title="1.6 ❤️Vios-PENGETAHUAN❤️",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-EXTIg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="1.6 ❤️Vios-PENGETAHUAN❤️",IN WILD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="1.6 ❤️Vios-PENGETAHUAN❤️",IN WILD
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hgtv.png" ,HGTV
+#EXTINF:-1 group-title="1.6 ❤️Vios-PENGETAHUAN❤️", tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hgtv.png" ,HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/crime.png" group-title="1.6 ❤️Vios-PENGETAHUAN❤️",CRIME+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/crime.png" group-title="1.6 ❤️Vios-PENGETAHUAN❤️", CRIME+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
