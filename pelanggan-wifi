@@ -2420,10 +2420,13 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GgQElJV.jpg", FREE PALESTINE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GgQElJV.jpg" group-title="❤️0.0 FREE PALESTINE❤️", FREE PALESTINE
 https://pbc.furrera.ps/palestinehd/index.m3u8
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/Live.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4#.m3u8
+
+
 
 
 ################     LOKAL INDO     ##################
